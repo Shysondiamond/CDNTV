@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,<BASE64_ENCODED_KEY>",KEYID=0x<KEY_ID>
-http://15.235.144.67:35461/654321/123456/11243
